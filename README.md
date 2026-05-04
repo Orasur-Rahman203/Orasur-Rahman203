@@ -98,7 +98,7 @@
 - 🔥 Currently working with **Next.js, NestJS, Prisma, PostgreSQL**
 - 🧠 Learning **Microservices Architecture & System Design**
 - 💬 Ask me about **React, Next.js, Tailwind, NestJS, Prisma**
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **orasurrahman203@gmail.com**
 
 ---
 
@@ -151,7 +151,7 @@
 
 ### 📫 Let's Connect
 <p align="center">
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:orasurrahman203@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com">
