@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Orasur Rahman Hasan</h1>
+<h1 align="center">Orasur Rahman Hasan</h1>
 <h3 align="center">A passionate Full-Stack & Frontend Developer from Bangladesh</h3>
 
 <p align="center">
@@ -70,7 +70,7 @@
 <a href="mailto:showmik21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://twitter.com/kabir_showmik" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/shahariar-kabir-showmik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p> -->
+</p>
 
 
 <h1 align="center">Md Orasur Rahman</h1>
@@ -93,9 +93,9 @@
 
 ### 🚀 About Me
 - 🎓 CSE Graduate from **Green University of Bangladesh**
-- 💼 Working as **Frontend / MERN Stack Developer**
-- ⚡ 2+ years experience in **React & Next.js**
-- 🔥 Currently working with **Next.js, NestJS, Prisma, PostgreSQL**
+- 💼 Working as **Full Stack Developer**
+- ⚡ 3+ years experience
+- 🔥 Currently working with **Next.js, Typescript,  NestJS, Prisma, PostgreSQL, Redis server**
 - 🧠 Learning **Microservices Architecture & System Design**
 - 💬 Ask me about **React, Next.js, Tailwind, NestJS, Prisma**
 - 📫 Reach me at **orasurrahman203@gmail.com**
@@ -145,7 +145,7 @@
 - ✅ Built multiple full-stack projects using MERN
 - ✅ Strong experience in **Next.js production apps**
 - ✅ Working on scalable backend architecture
-- ✅ Experienced with **React Query, Zod, ShadCN UI**
+- ✅ Experienced with **React Query, Zod, Zustand, ShadCN UI**
 
 ---
 
