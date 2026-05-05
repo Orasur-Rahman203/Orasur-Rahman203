@@ -1,6 +1,6 @@
 
 <h1 align="center">Md Orasur Rahman</h1>
-<h3 align="center">MERN Stack & Next.js Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Full Stack from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orasurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
