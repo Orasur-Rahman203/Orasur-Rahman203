@@ -45,6 +45,20 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
+### 📱 Mobile App Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo,postgres,mongodb,redis" />
+</p>
+
+<p>
+  🔹 Framework: React Native (Expo) <br/>
+  🔹 Backend: Node.js / NestJS <br/>
+  🔹 Database: PostgreSQL, MongoDB <br/>
+  🔹 Caching: Redis <br/>
+  🔹 Deployment: Google Play Console
+</p>
+
 #### 🧰 Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux" />
